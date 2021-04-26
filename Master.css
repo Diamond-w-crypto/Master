@@ -1,0 +1,115 @@
+body{
+    background-color: rgb(236, 219, 197);
+    }
+    h1{
+    text-align:center;
+    }
+    
+    #header {
+        background-color: rgb(240, 228, 223);
+        margin:10px 10px 10px 10px ;
+        padding: 0px 20px 0px 20px;
+        line-height: 50px;
+        border-radius: 40px;
+    }
+    
+    
+    ul {
+        list-style-type: none;
+    }
+    
+    li {
+        display: inline;
+    }
+    
+    ul {
+        padding: 0;
+    }
+    
+    .container a {
+        padding: 10px 20px 20px 10px;
+        color: #1a8b29;
+    }
+    
+    a:link {
+        text-decoration: none;
+    }
+    
+    #e_commerce {
+        float: right;
+        margin-right: 15px;
+          }
+    #footer {
+        background-color:black;
+        margin:10px 10px 10px 10px ;
+        padding: 0px 20px 0px 20px;
+        line-height: 40px;
+        display: block;
+    }
+    
+    tr {
+        padding-right: 10px;
+        padding-left: 20px;
+    }
+    
+    
+    
+    .pack{
+        color:black;
+        padding-right: 20px;
+        padding-left: 20px;
+        line-height: 30px;
+    }
+    
+    .social-icons li img {
+        width: 20px;
+        height: 20px; 
+        margin-right: 20px;
+        margin-left: 40px;
+    }
+    
+    li img {
+        width: 600px;
+        height: 300px;
+    }
+    .center {
+        display: inline;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .column{
+        float: right;
+        width: 100%;
+        padding: 5px;
+    }
+    .row::after {
+        content: "";
+        clear: both;
+        display: table;
+      }
+      .row {
+        display: flex;
+      }
+      
+      .column {
+        flex: 40%;
+        padding: 6px;
+      }
+    
+      .xcn {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 30%;
+      }
+      .bbc{
+          display: block;
+          margin-bottom: 20px;
+          widows: 10px;
+      }
+    
+      .bar{
+          position: absolute;
+          width: 20px;
+      }
+    
